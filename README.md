@@ -1,1 +1,1 @@
-# alexa-splitwise
+# alexa-app
